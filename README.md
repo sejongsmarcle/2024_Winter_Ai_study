@@ -45,7 +45,5 @@
   | | | | | |
 
   ## 참고
-  - [예제_길벗출판사](https://www.gilbut.co.kr/search?keyword=%EB%AA%A8%EB%91%90%EC%9D%98+%EB%94%A5%EB%9F%AC%EB%8B%9D)
-  - [예제_깃허브](https://github.com/gilbutITbook/080228)
-  - 
+  - [모두의 딥러닝 저자 깃허브](https://github.com/taehojo/deeplearning)
   
