@@ -115,4 +115,4 @@
 
 ## 참고
 - [모두의 딥러닝 저자 깃허브](https://github.com/taehojo/deeplearning)
-  
+- [모두의 딥러닝 개정2편 데이터셋](https://github.com/gilbutITbook/080228/tree/master/deeplearning/dataset)  
