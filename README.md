@@ -115,7 +115,7 @@
 |3 |1/16 (화) |1팀|Ch.7 ~ Ch.9 |p107~127|[바로가기](https://youtu.be/nglBT87lYG4)|
 |4 |1/18 (목) |3팀|Ch.10 ~ Ch.11 |p128~149|[바로가기](https://youtu.be/6Pbrm_-iolY)|
 |5 |1/23 (화) |2팀|Ch.12 ~ Ch.13 |p150~179|[바로가기](https://youtu.be/G8lKU1G2Brc)|
-|6 |1/25 (목) |1팀|Ch.14 |p180~201| |
+|6 |1/25 (목) |1팀|Ch.14 |p180~201|[바로가기](https://youtu.be/psztTFpuWbc) |
 |7 |2/1 (목) |CNN팀|CNN |p210~240| |
 |8 |2/6 (화) |NLP팀|NLP |p241~259| |
 |9 |2/8 (목) |RNN팀|RNN |p260~278| |
