@@ -117,7 +117,7 @@
 |5 |1/23 (화) |2팀|Ch.12 ~ Ch.13 |p150~179|[바로가기](https://youtu.be/G8lKU1G2Brc)|
 |6 |1/25 (목) |1팀|Ch.14 |p180~201|[바로가기](https://youtu.be/psztTFpuWbc) |
 |7 |2/1 (목) |CNN팀|CNN |p210~240|[바로가기](https://youtu.be/aebb_MauIYw) |
-|8 |2/6 (화) |NLP팀|NLP |p241~259| |
+|8 |2/6 (화) |NLP팀|NLP |p241~259|[바로가기](https://youtu.be/qOBKeaPEALQ) |
 |9 |2/8 (목) |RNN팀|RNN |p260~278| |
 |10 |2/13 (화) |GAN팀|GAN |p279~304| |
 |11 |2/15 (목) | |미니 프로젝트 1 -> 아이디어 선정 || |
